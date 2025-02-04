@@ -10,7 +10,7 @@ if bit == "64bit":
  print('\u001b[37m \x1b[38;5;196m->\033[1;97m64Bit Found')
  time.sleep(2)
  from vortexauto import main
- ruspt()
+ main()
  
  
  
